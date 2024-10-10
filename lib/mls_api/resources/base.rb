@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 require 'json'
+require 'ostruct'
 
 module MlsApi
   module Resources
